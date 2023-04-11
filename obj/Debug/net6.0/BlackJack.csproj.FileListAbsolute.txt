@@ -1,0 +1,30 @@
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.exe
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.dll
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.csproj.AssemblyReference.cache
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.dll
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+D:\School\Jaar 1\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
+D:\school\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.exe
+D:\school\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+D:\school\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+D:\school\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.dll
+D:\school\basis_programmeren\C#\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.csproj.AssemblyReference.cache
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.dll
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+D:\school\basis_programmeren\C#\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
